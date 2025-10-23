@@ -1,0 +1,24 @@
+# macOS
+.DS_Store
+xcuserdata/
+DerivedData/
+
+# Swift Package Manager
+.build/
+
+# Node / web tooling
+node_modules/
+dist/
+build/
+.env
+
+# Python
+__pycache__/
+*.py[cod]
+
+# Logs
+*.log
+
+# Temporary files
+*.swp
+*.tmp
